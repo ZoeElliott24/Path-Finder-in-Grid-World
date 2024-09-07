@@ -1,0 +1,15 @@
+bfs1(Breadth First Search):
+Path cost: 82
+Nodes expanded: 2024
+
+dfs1(Depth First Search):
+Path cost: 760
+Nodes expanded: 1249
+
+gbfs1 (Greedy Best First Search):
+Path cost: 94
+Nodes expanded: 103
+
+astar1( A* Search):
+Path cost: 85.5
+Nodes expanded: 1665
